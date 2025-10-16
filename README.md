@@ -1,6 +1,6 @@
 # DDNCnet-IEEE-TETCI-2025
 
-This repository contains code and data supporting the paper submission to **IEEE DSAA 2025**, focused on GPU-enhanced dynamic network construction and portfolio optimization in financial markets.
+This repository contains code and data supporting the paper submission to **IEEE TETCI 2025**, focused on GPU-enhanced dynamic network construction and portfolio optimization in financial markets.
 
 ---
 
